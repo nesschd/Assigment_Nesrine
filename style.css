@@ -1,0 +1,22 @@
+body{
+      background-color: aliceblue;
+}
+#title{
+    color: rgb(66, 170, 218);
+    margin-left: 40%;
+}
+#hello{
+    background-color: aliceblue;
+}
+
+#allTitles{
+    display: block;
+    margin-left: 30px;
+    background-color: lightgoldenrodyellow;
+    margin-right: 30px;
+}
+
+#myAnimatedImage{
+    margin-left: 40%;
+    margin-top: 20px;
+}
